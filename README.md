@@ -8,7 +8,7 @@
   <br>
   <br>
   &nbsp;
-  Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Braz Cubas, construindo     minha trajetória na área de Tecnologia da Informação e buscando desenvolver, de forma contínua, meus conhecimentos em   programação e desenvolvimento de software.
+  Aᴛᴜᴀʟᴍᴇɴᴛᴇ, sᴏᴜ ᴇsᴛᴜᴅᴀɴᴛᴇ ᴅᴇ Aɴᴀ́ʟɪsᴇ ᴇ Dᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ Sɪsᴛᴇᴍᴀs ɴᴏ Cᴇɴᴛʀᴏ Uɴɪᴠᴇʀsɪᴛᴀ́ʀɪᴏ Bʀᴀᴢ Cᴜʙᴀs, ᴄᴏɴsᴛʀᴜɪɴᴅᴏ ᴍɪɴʜᴀ ᴛʀᴀᴊᴇᴛᴏ́ʀɪᴀ ɴᴀ ᴀ́ʀᴇᴀ ᴅᴇ Tᴇᴄɴᴏʟᴏɢɪᴀ ᴅᴀ Iɴғᴏʀᴍᴀᴄ̧ᴀ̃ᴏ ᴇ ʙᴜsᴄᴀɴᴅᴏ ᴅᴇsᴇɴᴠᴏʟᴠᴇʀ, ᴅᴇ ғᴏʀᴍᴀ ᴄᴏɴᴛɪ́ɴᴜᴀ, ᴍᴇᴜs ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sᴏғᴛᴡᴀʀᴇ.
 </p>
 
 
