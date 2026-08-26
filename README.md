@@ -27,7 +27,7 @@
 
 
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?          username=sarasoliv&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=sarasoliv&show_icons=true&include_all_commits=true&theme=dracula)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?          username=sarasoliv&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=sarasoliv&show_icons=true&include_all_commits=true&theme=dracula)
+  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=dracula)
 
