@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,figma,vscode,devc,github,postgres,sql" />
+    <img src="https://skillicons.dev/icons?i=python,c,figma,vscode,github,postgres,sql" />
   </a>
 </p>
