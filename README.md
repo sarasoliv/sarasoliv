@@ -1,6 +1,6 @@
 # Oii, Eu sou a Sara🪐
 
-###*𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 𝚖𝚎𝚞 𝙶𝚒𝚝𝚑𝚞𝚋!*
+###𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 𝚖𝚎𝚞 𝙶𝚒𝚝𝚑𝚞𝚋!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
