@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?sarasoliv=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apisarasoliv=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
