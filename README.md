@@ -5,26 +5,14 @@
 
 
 <p align="left"> 
-  
+  &nbsp;
   Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Braz Cubas, construindo     minha trajetória na área de Tecnologia da Informação e buscando desenvolver, de forma contínua, meus conhecimentos em   programação e desenvolvimento de software.
 </p>
 
 
-<p align="left">
-  💼 Ferramentas:   
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,postgres" />
-  </a>
-</p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
-<p align="left">
-  ### 🦄 Linguagens:
-  
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,sql" />
   </a>
