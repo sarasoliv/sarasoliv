@@ -5,6 +5,8 @@
 
 
 <p align="left"> 
+  <br>
+  <br>
   &nbsp;
   Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Braz Cubas, construindo     minha trajetória na área de Tecnologia da Informação e buscando desenvolver, de forma contínua, meus conhecimentos em   programação e desenvolvimento de software.
 </p>
