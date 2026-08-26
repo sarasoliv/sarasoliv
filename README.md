@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens:
+  ### 🦄 Linguagens:
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,sql" />
