@@ -23,9 +23,5 @@ Here are some ideas to get you started:
 
 
 
-<div>
-<a href="https://github.com/sarasoliv">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?sarasoliv&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?sarasoliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?sarasoliv=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
