@@ -1,7 +1,7 @@
 # Oii, Eu sou a Sara🪐
 ### 𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 𝚖𝚎𝚞 𝙶𝚒𝚝𝚑𝚞𝚋!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 
 <p align="left"> 
@@ -22,11 +22,24 @@
 
 
 <br>
+<br>
+<br>
+<table>
+<tr>
+<td>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly)
 
+</td>
+<td>
 
-<p align="left">
-  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly)
 </p>
+
+</td>
+</tr>
+</table>
+
+
+
+
