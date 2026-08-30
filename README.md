@@ -28,12 +28,12 @@
 <tr>
 <td>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly)
+![GitHub Stats](https://github-readme-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly)
 
 </td>
 <td>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly)
+[![GitHub Stats](https://github-readme-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly)
 </p>
 
 </td>
