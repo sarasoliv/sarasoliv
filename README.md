@@ -114,7 +114,6 @@
     <td>
       <br />
       <img
-        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=sarasoliv&theme=jolly&cache_seconds=1800"
         alt="Github Stats"
       />
