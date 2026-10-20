@@ -113,7 +113,7 @@
     </td>
     <td>
       <br />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarasoliv&theme=jolly&timezone=utc%203&date_format=j%20M%5B%20Y%5D&card_width=415" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarasoliv&theme=jolly&timezone=UTC%E2%88%923&date_format=j%20M%5B%20Y%5D&card_width=415" alt="GitHub Streak" /></a>
       />
     </td>
   </tr>
