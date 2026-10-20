@@ -111,6 +111,14 @@
     <td>
       <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly&cache_seconds=1800" alt="Top Languages" />
     </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
   </tr>
 </table>
 
