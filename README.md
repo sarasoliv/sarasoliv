@@ -15,6 +15,7 @@
 
 
 <br>
+
 <img 
     align="left" 
     alt="C" 
@@ -55,6 +56,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
+
+
+  
 <br>
 <img
     align="left" 
