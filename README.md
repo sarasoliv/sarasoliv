@@ -118,7 +118,6 @@
         alt="GitHub Streak" 
       />
     </td>
-    <td align="center" valign="top" width="14.28%"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;"
   </tr>
 </table>
 
