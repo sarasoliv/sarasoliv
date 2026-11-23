@@ -78,17 +78,12 @@
 
 ---
   
-<br>
-<h3 align="center"> 
+<h3 align="center">
   𝑩𝒂𝒏𝒄𝒐 𝒅𝒆 𝑫𝒂𝒅𝒐𝒔 & 𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔
   <br>
   <br>
-
-</h3>
-
-
 <img
-    align="left" 
+    align="center" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
@@ -96,56 +91,81 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
   />
 <img 
-    align="left" 
-    alt="Github" 
-    title="Github"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-  />
-<img 
-    align="left" 
-    alt="vscode" 
-    title="vscode"
+    align="center" 
+    alt="Vscode" 
+    title="Vscode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
   />
 <img 
-    align="left" 
-    alt="dbeaver" 
-    title="dbeaver"
+    align="center" 
+    alt="Dbeaver" 
+    title="Dbeaver"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
   />
-
-          
-
-
-<br>
-<br>
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly&cache_seconds=1800" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly&cache_seconds=1800" alt="Top Languages" />
-    </td>
-    <td>
-      <br />
-        <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=sarasoliv&theme=jolly&date_format=j%20M%5B%20Y%5D&card_width=415&cache_seconds=1800" 
-        alt="GitHub Streak" 
-      />
-    </td>
-  </tr>
-</table>
+<img 
+    align="center" 
+    alt="Vercel" 
+    title="Vercel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+/>
+  <img 
+    align="center" 
+    alt="Supabase" 
+    title="Supabase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+</h3>
 
 
-<img src="img/espaco_2.jpg" alt="Ilustração digital larga para banner de perfil do GitHub mostrando ao centro o planeta Saturno inclinado com anéis largos e faixas onduladas em roxo, rosa, laranja e amarelo sobre um céu espacial roxo-escuro com nebulosas, estrelas, pequenos pontos brilhantes e rochas espaciais, além de linhas e pontos que lembram constelações e traços semelhantes a código no canto superior esquerdo. " style="width: 100%; height: 80px; object-fit: cover;" />
+---
+      
+
+
+
+---
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    title="GitHub Stats"
+    width="350px" 
+    style="padding-right: 1000px;" 
+    src="https://github-readme-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly&cache_seconds=1800" 
+    alt="GitHub Stats"
+/>
+<img 
+    align="center" 
+    alt="GitHub Stats" 
+    title="GitHub Stats"
+    width="350px" 
+    style="padding-right: 1000px;" 
+    src="https://github-readme-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly&cache_seconds=1800" 
+    alt="GitHub Stats"
+/>
+<img 
+    align="left" 
+    alt="Top Languages" 
+    title="Top Languages"
+    width="250px" 
+    style="padding-right: 1000px;" 
+    src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly&cache_seconds=1800" 
+    alt="Top Languages" 
+/>
+
+  <br>
+  <br>
+  <br>  
+<img 
+  src="img/espaco_2.jpg" 
+  alt="Ilustração digital larga para banner de perfil do GitHub mostrando ao centro o planeta Saturno inclinado com anéis largos e faixas onduladas em roxo, rosa, laranja e amarelo sobre um céu espacial roxo-escuro com nebulosas, estrelas, pequenos pontos brilhantes e rochas espaciais, além de linhas e pontos que lembram constelações e traços semelhantes a código no canto superior esquerdo. " 
+  style="width: 100%; height: 80px; object-fit: cover;" 
+/>
 
 
