@@ -3,34 +3,39 @@
 
 
 <h2 align="center">
-  Oii, eu sou a Sara
-</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F97316&center=true&vCenter=true&width=520&lines=Seja+bem+vindo(a)+ao+meu+GitHub!" alt="Bem vindo(a) ao meu GitHub!" />
+  ✧˚₊· 𝐎𝐢𝐢, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐒𝐚𝐫𝐚 ·₊˚✧
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=F97316&center=true&vCenter=true&width=520&lines=Seja+bem+vindo(a)+ao+meu+GitHub!" alt="Bem vindo(a) ao meu GitHub!" />
 </p>
+</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
-
 <h3 align="left"> 
-  Sobre
+  <br>
+  <br>
+  𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
 </h3>
 
 <p align="left"> 
   <br>
-  <br>
   &nbsp;
-  Aᴛᴜᴀʟᴍᴇɴᴛᴇ, sᴏᴜ ᴇsᴛᴜᴅᴀɴᴛᴇ ᴅᴇ Aɴᴀ́ʟɪsᴇ ᴇ Dᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ Sɪsᴛᴇᴍᴀs ɴᴏ Cᴇɴᴛʀᴏ Uɴɪᴠᴇʀsɪᴛᴀ́ʀɪᴏ Bʀᴀᴢ Cᴜʙᴀs, ᴄᴏɴsᴛʀᴜɪɴᴅᴏ ᴍɪɴʜᴀ ᴛʀᴀᴊᴇᴛᴏ́ʀɪᴀ ɴᴀ ᴀ́ʀᴇᴀ ᴅᴇ Tᴇᴄɴᴏʟᴏɢɪᴀ ᴅᴀ Iɴғᴏʀᴍᴀᴄ̧ᴀ̃ᴏ ᴇ ʙᴜsᴄᴀɴᴅᴏ ᴅᴇsᴇɴᴠᴏʟᴠᴇʀ, ᴅᴇ ғᴏʀᴍᴀ ᴄᴏɴᴛɪ́ɴᴜᴀ, ᴍᴇᴜs ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sᴏғᴛᴡᴀʀᴇ.
+𝖠𝗍𝗎𝖺𝗅𝗆𝖾𝗇𝗍𝖾, 𝗌𝗈𝗎 𝖾𝗌𝗍𝗎𝖽𝖺𝗇𝗍𝖾 𝖽𝖾 𝖠𝗇𝖺́𝗅𝗂𝗌𝖾 𝖾 𝖣𝖾𝗌𝖾𝗇𝗏𝗈𝗅𝗏𝗂𝗆𝖾𝗇𝗍𝗈 𝖽𝖾 𝖲𝗂𝗌𝗍𝖾𝗆𝖺𝗌 𝗇𝗈 𝖢𝖾𝗇𝗍𝗋𝗈 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝖺́𝗋𝗂𝗈 𝖡𝗋𝖺𝗓 𝖢𝗎𝖻𝖺𝗌, 𝖼𝗈𝗇𝗌𝗍𝗋𝗎𝗂𝗇𝖽𝗈 𝗆𝗂𝗇𝗁𝖺 𝗍𝗋𝖺𝗃𝖾𝗍𝗈́𝗋𝗂𝖺 𝗇𝖺 𝖺́𝗋𝖾𝖺 𝖽𝖾 𝖳𝖾𝖼𝗇𝗈𝗅𝗈𝗀𝗂𝖺 𝖽𝖺 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝖼̧𝖺̃𝗈. 𝖧𝗈𝗃𝖾, 𝗆𝖾𝗎 𝖿𝗈𝖼𝗈 𝖾𝗌𝗍𝖺́ 𝗇𝗈 𝖽𝖾𝗌𝖾𝗇𝗏𝗈𝗅𝗏𝗂𝗆𝖾𝗇𝗍𝗈 𝖥𝗎𝗅𝗅 𝖲𝗍𝖺𝖼𝗄 𝖾 𝗇𝖺 𝖺́𝗋𝖾𝖺 𝖽𝖾 𝖣𝖺𝖽𝗈𝗌, 𝖺𝗅𝖾́𝗆 𝖽𝗈 𝖺𝗉𝗋𝗂𝗆𝗈𝗋𝖺𝗆𝖾𝗇𝗍𝗈 𝖼𝗈𝗇𝗍𝗂́𝗇𝗎𝗈 𝖽𝖺𝗌 𝗆𝗂𝗇𝗁𝖺𝗌 𝗌𝗈𝖿𝗍 𝗌𝗄𝗂𝗅𝗅𝗌 𝖾 𝖽𝖺 𝗉𝗋𝖺́𝗍𝗂𝖼𝖺 𝖽𝖾 𝗆𝖾𝗍𝗈𝖽𝗈𝗅𝗈𝗀𝗂𝖺𝗌 𝖺́𝗀𝖾𝗂𝗌, 𝖼𝗈𝗆𝗈 𝖪𝖺𝗇𝖻𝖺𝗇 𝖾 𝖲𝖼𝗋𝗎𝗆, 𝗉𝖺𝗋𝖺 𝗈𝗋𝗀𝖺𝗇𝗂𝗓𝖺𝗋 𝗉𝗋𝗈𝗃𝖾𝗍𝗈𝗌 𝖾 𝖾𝗇𝗍𝗋𝖾𝗀𝖺𝗋 𝗌𝗈𝗅𝗎𝖼̧𝗈̃𝖾𝗌 𝖼𝗈𝗆 𝖾𝖿𝗂𝖼𝗂𝖾̂𝗇𝖼𝗂𝖺.
+  <br>
+  <br>
+  <br>
 </p>
-
 
 ---
 
-<br>
 
-<img 
-    align="left" 
+
+<h3 align="center"> 
+  𝑳𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔 & 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒎𝒆𝒏𝒕𝒐
+  <br>
+  <br>
+  <img 
+    align="center" 
     alt="C" 
     title="C"
     width="30px" 
@@ -38,7 +43,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -46,7 +51,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -54,7 +59,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -62,19 +67,25 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
-
-<br>
+</h3>
 
 ---
   
 <br>
+<h3 align="center"> 
+  𝑩𝒂𝒏𝒄𝒐 𝒅𝒆 𝑫𝒂𝒅𝒐𝒔 & 𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔
+  <br>
+  <br>
+
+</h3>
+
 
 <img
     align="left" 
