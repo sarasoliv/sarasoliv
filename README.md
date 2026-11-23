@@ -1,4 +1,4 @@
-<img src="img/espaco_1.jpg" alt="Ilustração digital larga para banner de perfil do GitHub mostrando ao centro o planeta Saturno inclinado com anéis largos e faixas onduladas em roxo, rosa, laranja e amarelo sobre um céu espacial roxo-escuro com nebulosas, estrelas, pequenos pontos brilhantes e rochas espaciais, além de linhas e pontos que lembram constelações e traços semelhantes a código no canto superior esquerdo. " style="width: 100%; height: 180px; object-fit: cover;" />
+<img src="img/espaco_1.jpg" alt="Ilustração digital larga para banner de perfil do GitHub mostrando ao centro o planeta Saturno inclinado com anéis largos e faixas onduladas em roxo, rosa, laranja e amarelo sobre um céu espacial roxo-escuro com nebulosas, estrelas, pequenos pontos brilhantes e rochas espaciais, além de linhas e pontos que lembram constelações e traços semelhantes a código no canto superior esquerdo. " style="width: 100%; height: 200px; object-fit: cover;" />
 
 # Oii, Eu sou a Sara🪐
 ### 𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 𝚖𝚎𝚞 𝙶𝚒𝚝𝚑𝚞𝚋!
