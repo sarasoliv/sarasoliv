@@ -1,10 +1,21 @@
-<img src="img/espaco_1.jpg" alt="Ilustração digital larga para banner de perfil do GitHub mostrando ao centro o planeta Saturno inclinado com anéis largos e faixas onduladas em roxo, rosa, laranja e amarelo sobre um céu espacial roxo-escuro com nebulosas, estrelas, pequenos pontos brilhantes e rochas espaciais, além de linhas e pontos que lembram constelações e traços semelhantes a código no canto superior esquerdo. " style="width: 100%; height: 200px; object-fit: cover;" />
+<img src="img/espaco_1.jpg" alt="Ilustração digital larga para banner de perfil do GitHub mostrando ao centro o planeta Saturno inclinado com anéis largos e faixas onduladas em roxo, rosa, laranja e amarelo sobre um céu espacial roxo-escuro com nebulosas, estrelas, pequenos pontos brilhantes e rochas espaciais, além de linhas e pontos que lembram constelações e traços semelhantes a código no canto superior esquerdo. " style="width: 100%; height: 220px; object-fit: cover;" />
 
-# Oii, Eu sou a Sara🪐
-### 𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 𝚖𝚎𝚞 𝙶𝚒𝚝𝚑𝚞𝚋!
+
+
+<h2 align="center">
+  Oii, eu sou a Sara
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F97316&center=true&vCenter=true&width=520&lines=Seja+bem+vindo(a)+ao+meu+GitHub!" alt="Bem vindo(a) ao meu GitHub!" />
+</p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
+
+<h3 align="left"> 
+  Sobre
+</h3>
 
 <p align="left"> 
   <br>
