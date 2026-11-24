@@ -137,21 +137,21 @@
 />
 <img 
     align="center" 
-    alt="GitHub Stats" 
-    title="GitHub Stats"
-    width="350px" 
-    style="padding-right: 1100px;" 
-    src="https://github-readme-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly&cache_seconds=1800" 
-    alt="GitHub Stats"
-/>
-<img 
-    align="left" 
     alt="Top Languages" 
     title="Top Languages"
-    width="250px" 
+    width="350px" 
     style="padding-right: 1000px;" 
     src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=sarasoliv&langs_count=4&theme=jolly&cache_seconds=1800" 
     alt="Top Languages" 
+/>
+<img 
+    align="right" 
+    alt="GitHub Stats" 
+    title="GitHub Stats"
+    width="350px" 
+    style="padding-right: 1000px;" 
+    src="https://github-readme-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly&cache_seconds=1800" 
+    alt="GitHub Stats"
 />
   <br>
   <br>
