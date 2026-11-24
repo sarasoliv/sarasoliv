@@ -150,7 +150,7 @@
     align="center" 
     alt="Top Languages" 
     title="Top Languages"
-    width="460px" 
+    width="445px" 
     style="padding-right: 1000px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasoliv&theme=jolly&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&cache_seconds=1800" 
     alt="Top Languages" 
