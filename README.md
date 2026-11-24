@@ -140,7 +140,7 @@
     align="left" 
     alt="GitHub Streaks" 
     title="GitHub Streaks"
-    width="410px" 
+    width="405px" 
     style="padding-right: 1000px;" 
     src="https://streak-stats.demolab.com?user=sarasoliv&theme=jolly&hide_border=true&include_all_commits=true&cache_seconds=1800" 
     alt="GitHub Streaks"
