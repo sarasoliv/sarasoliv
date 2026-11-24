@@ -130,33 +130,35 @@
     align="left" 
     alt="GitHub Stats" 
     title="GitHub Stats"
-    width="500px" 
+    width="470px" 
     style="padding-right: 1000px;" 
     src="https://github-readme-stats.vercel.app/api?username=sarasoliv&theme=jolly&rank_icon=github&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" 
     alt="GitHub Stats"
 />
-<!-- Linguagens mais usadas em projetos -->
-<img 
-    align="right" 
-    alt="Top Languages" 
-    title="Top Languages"
-    width="450px" 
-    style="padding-right: 1000px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasoliv&theme=jolly&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&cache_seconds=1800" 
-    alt="Top Languages" 
-/>
 <!-- tabela de dias que usei o github -->
 <img 
     align="left" 
-    alt="GitHub Stats" 
-    title="GitHub Stats"
+    alt="GitHub Streaks" 
+    title="GitHub Streaks"
     width="500px" 
     style="padding-right: 1000px;" 
     src="https://streak-stats.demolab.com?user=sarasoliv&theme=jolly&hide_border=true&include_all_commits=true&cache_seconds=1800" 
     alt="GitHub Streaks"
 />
+<!-- Linguagens mais usadas em projetos -->
+<img 
+    align="center" 
+    alt="Top Languages" 
+    title="Top Languages"
+    width="460px" 
+    style="padding-right: 1000px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasoliv&theme=jolly&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&cache_seconds=1800" 
+    alt="Top Languages" 
+/>
+<br>
+<br>
+<br>
 <!-- capa do final -->
-
 <img 
   src="img/espaco_2.jpg" 
   alt="Ilustração digital larga para banner de perfil do GitHub mostrando ao centro o planeta Saturno inclinado com anéis largos e faixas onduladas em roxo, rosa, laranja e amarelo sobre um céu espacial roxo-escuro com nebulosas, estrelas, pequenos pontos brilhantes e rochas espaciais, além de linhas e pontos que lembram constelações e traços semelhantes a código no canto superior esquerdo. " 
