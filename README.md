@@ -140,7 +140,7 @@
     alt="GitHub Stats" 
     title="GitHub Stats"
     width="350px" 
-    style="padding-right: 1000px;" 
+    style="padding-right: 1100px;" 
     src="https://github-readme-stats-extended.vercel.app/api?username=sarasoliv&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly&cache_seconds=1800" 
     alt="GitHub Stats"
 />
